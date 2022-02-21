@@ -1,4 +1,4 @@
-# revisao-de-python
+# Revisao-de-python
 Revisão de Python (If, Array, For, While)
  
 Lista de  Algortimos  (If, Array, For, While)
