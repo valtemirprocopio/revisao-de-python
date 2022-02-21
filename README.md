@@ -2,8 +2,10 @@
 Revisão de Python (If, Array, For, While)
  
 Lista de  Algortimos  (If, Array, For, While)
+
 “Quem estuda e não pratica o que aprendeu, é como o homem que lavra e não semeia.”
 Provérbio árabe
+
 1.	Escreva um programa que leia um número e informe se ele é positivo ou negativo.
 2.	Faça um algoritmo que leia 3 números inteiros distintos e escreva o menor deles.
 3.	Escreva um programa leia dois nomes de times de futebol, a quantidade de gols do primeiro time, a quantidade de gols do segundo time e mostre o nome do time vencedor da partida.
