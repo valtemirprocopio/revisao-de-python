@@ -1,7 +1,6 @@
 '''Escreva um programa leia dois nomes de times de futebol, a quantidade de gols do primeiro time, 
 a quantidade de gols do segundo time e mostre o nome do time vencedor da partida.'''
 
-import string
 
 
 first_team = input('Enter the name of the first team: ')
