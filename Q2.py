@@ -1,6 +1,5 @@
 '''Faça um algoritmo que leia 3 números inteiros 
 distintos e escreva o menor deles.'''
-'''valtemir'''
 first = int(input('Enter a first number: '))
 second = int(input('Enter a second number: '))
 third = int(input('Enter a third number: '))
