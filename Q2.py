@@ -9,4 +9,3 @@ if ((second > first) and (second > third)):
     print ('The biggest number is', second)
 if ((third > second) and (third > first)):
     print ('The biggest number is', third)
-valtemir
